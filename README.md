@@ -1,3 +1,4 @@
 # secTry
 Learn use github clone
 Creating a new branch is quick.
+Creating a new branch named feature1.
